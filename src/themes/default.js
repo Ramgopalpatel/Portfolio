@@ -1,4 +1,4 @@
-export default {
+export default _default = {
     // Temp fonts
     fonts: {
       title: "Space Grotesk, sans-serif",
